@@ -15,7 +15,7 @@ on how to use FastLZ. The corresponding decompressor is 6unpack.
 
 To compile using GCC:
 
-  gcc -o 6pack 6pack.c fastlz.c test
+  gcc -o 6pack 6pack.c fastlz.c
   gcc -o 6unpack 6unpack.c fastlz.c
 
 To compile using MinGW:
